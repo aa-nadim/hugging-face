@@ -1,0 +1,9 @@
+python-dotenv
+transformers
+langchain
+langchain-community
+openai
+torch
+diffusers 
+transformers 
+accelerate
