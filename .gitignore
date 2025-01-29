@@ -1,3 +1,6 @@
 .venv
 *.png
 *.jpg
+.env.test
+.env
+.env.local
